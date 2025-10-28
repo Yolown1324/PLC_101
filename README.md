@@ -1,4 +1,7 @@
 # PLC_101
+
+<img width="200" height="200" alt="2833947-200" src="https://github.com/user-attachments/assets/4f931652-04a4-4f81-8c06-2138f12f3dec" />
+
 # PLC & OpenPLC — Manuale Tecnico
 
 ## Introduzione
