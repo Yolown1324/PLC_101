@@ -22,5 +22,10 @@ L’obiettivo è fornire una guida operativa chiara, modulare e orientata all’
 - **Procedure operative** — Deployment, debug, gestione versioni e manutenzione.  
 - **Appendici tecniche** — Risorse, librerie, link di riferimento e strumenti di sviluppo.
 
-## Struttura della repository
+## Strumento di redazione
+
+La stesura del manuale è stata realizzata utilizzando **MarkText**, un editor Markdown open source progettato per offrire un ambiente di scrittura pulito, veloce e altamente compatibile con le principali sintassi Markdown.  
+MarkText permette di mantenere un flusso di lavoro semplice e privo di distrazioni, garantendo al tempo stesso un controllo preciso sulla formattazione e la struttura dei documenti tecnici.
+
+🔗 **Sito ufficiale:** [https://marktext.app](https://marktext.app)
 
